@@ -5,5 +5,5 @@ import structural.adaptorabstractfactory.shortchassis.ShortChassis;
 
 public interface CarFactory {
     Suv createSuv();
-    ShortChassis createُShortChassis();
+    ShortChassis createShortChassis();
 }

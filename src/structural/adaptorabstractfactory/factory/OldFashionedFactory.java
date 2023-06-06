@@ -13,7 +13,7 @@ public class OldFashionedFactory implements CarFactory {
     }
 
     @Override
-    public ShortChassis createُShortChassis() {
+    public ShortChassis createShortChassis() {
         return new Dena();
     }
 }
